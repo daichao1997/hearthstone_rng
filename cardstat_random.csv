@@ -1,0 +1,181 @@
+name,set,rank,deck_freq,copies,winrate,play_time,play_freq,play_winrate
+Stonehill Defender,Un'Goro,2,0.208,1.900,0.532,3700000,0.016,0.494
+The Lich King,Frozen Throne,7,0.315,1.000,0.534,2200000,0.009,0.545
+Oaken Summons,Kobalds,9,0.122,1.900,0.530,2100000,0.009,0.535
+Animal Companion,Basic,22,0.100,2.000,0.546,1700000,0.007,0.496
+Fal'dorei Strider,Kobalds,34,0.071,2.000,0.519,1400000,0.006,0.531
+Wandering Monster,Kobalds,37,0.091,2.000,0.549,1300000,0.006,0.479
+Tracking,Basic,40,0.089,1.900,0.547,1300000,0.006,0.486
+Shadow Visions,Un'Goro,47,0.061,2.000,0.496,1200000,0.005,0.498
+Lightning Storm,Classic,57,0.075,1.900,0.504,1100000,0.005,0.484
+Shudderwock,Witchwood,58,0.073,1.000,0.505,1100000,0.005,0.840
+Unidentified Maul,Kobalds,69,0.081,2.000,0.567,1000000,0.004,0.520
+Vicious Fledgling,Un'Goro,72,0.069,1.900,0.541,1000000,0.004,0.485
+Volcano,Un'Goro,74,0.073,2.000,0.505,980000,0.004,0.472
+Primordial Glyph,Un'Goro,78,0.046,1.900,0.515,950000,0.004,0.471
+Stitched Tracker,Frozen Throne,79,0.070,2.000,0.542,930000,0.004,0.523
+Deathstalker Rexxar,Frozen Throne,81,0.142,1.000,0.549,920000,0.004,0.445
+Blink Fox,Witchwood,91,0.060,1.900,0.531,830000,0.004,0.458
+Seeping Oozeling,Kobalds,108,0.058,2.000,0.551,710000,0.003,0.614
+To My Side!,Kobalds,109,0.043,1.900,0.561,700000,0.003,0.524
+Raven Familiar,Kobalds,112,0.038,1.900,0.531,700000,0.003,0.529
+Crackling Razormaw,Un'Goro,114,0.033,2.000,0.545,680000,0.003,0.504
+Arcane Missiles,Basic,118,0.032,2.000,0.534,660000,0.003,0.479
+Arcane Keysmith,Witchwood,121,0.044,1.700,0.531,650000,0.003,0.532
+Dragon's Fury,Kobalds,123,0.043,2.000,0.527,640000,0.003,0.503
+Mind Control Tech,Classic,127,0.068,1.200,0.517,620000,0.003,0.498
+Cobalt Scalebane,Frozen Throne,130,0.074,1.500,0.539,620000,0.003,0.502
+Cinderstorm,Witchwood,135,0.030,1.900,0.535,600000,0.003,0.484
+Brawl,Classic,145,0.045,1.900,0.526,560000,0.002,0.462
+Bloodreaver Gul'dan,Frozen Throne,147,0.121,1.000,0.531,550000,0.002,0.602
+Hagatha the Witch,Witchwood,150,0.089,1.000,0.528,530000,0.002,0.517
+Witching Hour,Witchwood,155,0.068,2.000,0.526,500000,0.002,0.621
+Knife Juggler,Classic,159,0.034,2.000,0.557,490000,0.002,0.488
+Possessed Lackey,Kobalds,163,0.037,1.900,0.511,480000,0.002,0.557
+Master Oakheart,Kobalds,167,0.062,1.000,0.533,460000,0.002,0.657
+Earthen Might,Witchwood,176,0.030,2.000,0.559,430000,0.002,0.519
+Twilight's Call,Kobalds,178,0.021,1.900,0.485,430000,0.002,0.532
+Kathrena Winterwisp,Kobalds,180,0.071,1.000,0.545,410000,0.002,0.654
+Crystalline Oracle,Un'Goro,182,0.019,1.900,0.490,390000,0.002,0.502
+Corpsetaker,Frozen Throne,183,0.029,2.000,0.561,390000,0.002,0.490
+Dragonhatcher,Kobalds,184,0.059,1.300,0.533,390000,0.002,0.539
+Hallucination,Un'Goro,195,0.021,1.600,0.481,320000,0.001,0.440
+Skull of the Man'ari,Kobalds,196,0.037,1.000,0.510,320000,0.001,0.598
+Shadow Ascendant,Frozen Throne,211,0.016,1.900,0.492,280000,0.001,0.472
+Bone Drake,Frozen Throne,212,0.023,1.700,0.501,280000,0.001,0.530
+Spiteful Summoner,Kobalds,213,0.019,2.000,0.536,270000,0.001,0.577
+Doomguard,Classic,222,0.046,2.000,0.518,250000,0.001,0.508
+Jeweled Macaw,Un'Goro,228,0.007,1.800,0.514,240000,0.001,0.422
+Rhok'delar,Kobalds,229,0.042,1.000,0.561,240000,0.001,0.526
+Shimmering Tempest,Un'Goro,232,0.012,1.800,0.481,230000,0.001,0.464
+Gnomeferatu,Frozen Throne,239,0.011,1.700,0.485,220000,0.001,0.478
+Silver Vanguard,Kobalds,241,0.059,1.100,0.550,210000,0.001,0.570
+Dire Frenzy,Witchwood,242,0.030,1.400,0.517,210000,0.001,0.559
+Servant of Kalimos,Un'Goro,243,0.015,1.700,0.493,210000,0.001,0.517
+Unidentified Elixir,Kobalds,244,0.012,1.900,0.488,210000,0.001,0.502
+Pick Pocket,Witchwood,248,0.007,1.600,0.405,210000,0.001,0.391
+Shadow Essence,Frozen Throne,252,0.011,1.800,0.461,200000,0.001,0.526
+Lesser Ruby Spellstone,Kobalds,258,0.011,1.900,0.477,190000,0.001,0.462
+Eternal Servitude,Frozen Throne,270,0.012,1.800,0.452,160000,0.001,0.582
+Sindragosa,Frozen Throne,273,0.027,1.000,0.527,160000,0.001,0.610
+Tortollan Shellraiser,Un'Goro,284,0.008,1.700,0.489,150000,0.001,0.453
+Blazing Invocation,Witchwood,285,0.003,1.500,0.464,150000,0.001,0.499
+Soulfire,Basic,300,0.011,1.900,0.531,130000,0.001,0.458
+Lesser Diamond Spellstone,Kobalds,306,0.013,1.900,0.450,130000,0.001,0.611
+Lyra the Sunshard,Un'Goro,311,0.016,1.000,0.476,120000,0.001,0.459
+Bright-Eyed Scout,Un'Goro,312,0.010,1.800,0.514,120000,0.001,0.502
+Gentle Megasaur,Un'Goro,325,0.008,1.900,0.522,110000,0.001,0.509
+Elise the Trailblazer,Un'Goro,326,0.014,1.000,0.476,110000,0.001,0.507
+Free From Amber,Un'Goro,327,0.009,1.700,0.504,110000,0.001,0.485
+Book of Specters,Witchwood,328,0.009,1.900,0.496,110000,0.001,0.465
+Arfus,Frozen Throne,332,0.003,1.000,0.476,110000,0.001,0.431
+Ysera,Classic,335,0.023,1.000,0.498,100000,0.001,0.541
+Hydrologist,Un'Goro,339,0.006,1.900,0.532,100000,0.000,0.480
+Breath of Sindragosa,Frozen Throne,341,0.004,1.700,0.509,100000,0.000,0.427
+Face Collector,Witchwood,342,0.006,1.000,0.460,100000,0.000,0.395
+Unstable Evolution,Kobalds,346,0.002,1.400,0.473,100000,0.000,0.529
+Vex Crow,Witchwood,354,0.006,1.600,0.518,98000,0.000,0.448
+Gather Your Party,Kobalds,364,0.006,2.000,0.501,92000,0.000,0.511
+Call to Arms,Kobalds,366,0.006,1.800,0.524,92000,0.000,0.461
+Obsidian Statue,Frozen Throne,368,0.008,1.500,0.457,90000,0.000,0.479
+Pterrordax Hatchling,Un'Goro,378,0.000,1.200,0.455,84000,0.000,0.399
+Evolving Spores,Un'Goro,391,0.010,1.000,0.528,75000,0.000,0.557
+Ravasaur Runt,Un'Goro,393,0.001,1.700,0.496,74000,0.000,0.469
+Kobold Apprentice,Kobalds,394,0.004,1.500,0.486,74000,0.000,0.468
+Curious Glimmerroot,Un'Goro,399,0.004,1.500,0.494,71000,0.000,0.471
+Forked Lightning,Classic,406,0.000,1.300,0.412,68000,0.000,0.479
+Ornery Direhorn,Un'Goro,410,0.000,1.400,0.477,66000,0.000,0.508
+Multi-Shot,Basic,418,0.003,1.400,0.515,64000,0.000,0.355
+Stampeding Kodo,Classic,420,0.001,1.200,0.485,63000,0.000,0.455
+Hungry Ettin,Kobalds,422,0.001,1.300,0.474,63000,0.000,0.429
+Woecleaver,Kobalds,424,0.007,1.000,0.493,62000,0.000,0.604
+"Toki, Time-Tinker",Witchwood,428,0.007,1.000,0.509,61000,0.000,0.521
+Psionic Probe,Kobalds,429,0.002,1.700,0.386,61000,0.000,0.425
+Mind Vision,Basic,437,0.002,1.700,0.371,58000,0.000,0.391
+Thoughtsteal,Classic,440,0.002,1.600,0.402,57000,0.000,0.387
+Archmage Arugal,Witchwood,446,0.006,1.000,0.496,55000,0.000,0.459
+Witch's Cauldron,Witchwood,447,0.006,1.200,0.505,55000,0.000,0.430
+Swamp Dragon Egg,Witchwood,448,0.003,1.700,0.422,55000,0.000,0.374
+Chameleos,Witchwood,451,0.007,1.000,0.476,54000,0.000,0.470
+Deck of Wonders,Kobalds,453,0.001,1.300,0.450,54000,0.000,0.371
+Primal Talismans,Kobalds,454,0.000,1.400,0.351,53000,0.000,0.546
+Witch's Apprentice,Witchwood,456,0.002,1.500,0.435,52000,0.000,0.398
+Mimic Pod,Un'Goro,457,0.003,1.600,0.450,52000,0.000,0.452
+Misdirection,Classic,461,0.002,1.200,0.532,51000,0.000,0.390
+Shifting Scroll,Kobalds,462,0.001,1.400,0.464,51000,0.000,0.424
+Woodcutter's Axe,Witchwood,470,0.003,1.900,0.475,48000,0.000,0.430
+Unidentified Shield,Kobalds,471,0.004,1.500,0.496,47000,0.000,0.492
+Dark Possession,Witchwood,475,0.003,1.500,0.445,45000,0.000,0.417
+Tess Greymane,Witchwood,477,0.009,1.000,0.428,45000,0.000,0.459
+Marin the Fox,Kobalds,486,0.006,1.000,0.466,43000,0.000,0.473
+Mirage Caller,Un'Goro,487,0.003,1.700,0.452,43000,0.000,0.492
+Grand Archivist,Kobalds,492,0.010,1.000,0.548,42000,0.000,0.544
+Ravencaller,Witchwood,502,0.002,1.700,0.445,39000,0.000,0.374
+Prince Liam,Witchwood,509,0.005,1.000,0.523,37000,0.000,0.375
+Geosculptor Yip,Kobalds,524,0.006,1.000,0.501,34000,0.000,0.591
+Adaptation,Un'Goro,527,0.002,1.600,0.478,33000,0.000,0.416
+Avenging Wrath,Classic,542,0.003,1.700,0.521,30000,0.000,0.462
+Primalfin Lookout,Un'Goro,547,0.002,1.700,0.491,30000,0.000,0.440
+Val'anyr,Kobalds,553,0.004,1.000,0.496,28000,0.000,0.489
+Rotface,Frozen Throne,556,0.005,1.000,0.482,27000,0.000,0.515
+Lightfused Stegodon,Un'Goro,557,0.002,1.700,0.519,27000,0.000,0.476
+Meat Wagon,Frozen Throne,558,0.002,1.800,0.441,27000,0.000,0.438
+Tinkmaster Overspark,Classic,562,0.004,1.000,0.501,26000,0.000,0.429
+Lynessa Sunsorrow,Kobalds,564,0.004,1.000,0.448,26000,0.000,0.489
+Tortollan Forager,Un'Goro,567,0.001,1.700,0.445,25000,0.000,0.401
+Ravenous Pterrordax,Un'Goro,568,0.002,1.700,0.486,25000,0.000,0.425
+Volatile Elemental,Un'Goro,569,0.001,1.400,0.445,25000,0.000,0.403
+Guild Recruiter,Kobalds,580,0.002,1.400,0.496,23000,0.000,0.475
+Stampede,Un'Goro,583,0.000,1.100,0.408,23000,0.000,0.419
+Dollmaster Dorian,Witchwood,587,0.003,1.000,0.462,22000,0.000,0.437
+Blood Imp,Classic,600,0.001,1.700,0.456,20000,0.000,0.351
+Shallow Gravedigger,Frozen Throne,601,0.001,1.500,0.416,20000,0.000,0.396
+Coffin Crasher,Witchwood,605,0.001,1.600,0.435,19000,0.000,0.493
+Bellringer Sentry,Witchwood,606,0.001,1.800,0.500,19000,0.000,0.438
+Kobold Illusionist,Kobalds,611,0.001,1.300,0.323,19000,0.000,0.451
+Tanglefur Mystic,Witchwood,617,0.001,1.700,0.488,18000,0.000,0.380
+Mad Hatter,Witchwood,621,0.002,1.600,0.514,18000,0.000,0.530
+Devour Mind,Frozen Throne,632,0.001,1.300,0.376,17000,0.000,0.389
+Witchwood Imp,Witchwood,637,0.001,1.700,0.457,16000,0.000,0.371
+Elder Longneck,Un'Goro,638,0.001,1.700,0.426,16000,0.000,0.454
+Mindgames,Classic,642,0.000,1.300,0.356,16000,0.000,0.444
+The Darkness,Kobalds,654,0.001,1.000,0.430,15000,0.000,0.456
+Volcanosaur,Un'Goro,661,0.001,1.200,0.471,14000,0.000,0.403
+Young Priestess,Classic,667,0.001,1.400,0.463,14000,0.000,0.371
+Grizzled Guardian,Kobalds,670,0.001,1.600,0.467,14000,0.000,0.436
+Howlfiend,Frozen Throne,677,0.002,1.300,0.411,12000,0.000,0.491
+Blackhowl Gunspire,Witchwood,686,0.001,1.000,0.425,11000,0.000,0.444
+Verdant Longneck,Un'Goro,687,0.000,1.500,0.430,11000,0.000,0.456
+Shrieking Shroom,Kobalds,688,0.001,1.300,0.462,11000,0.000,0.359
+Professor Putricide,Frozen Throne,695,0.001,1.000,0.512,11000,0.000,0.482
+"Thrall, Deathseer",Frozen Throne,699,0.001,1.000,0.448,10000,0.000,0.448
+Cleave,Basic,700,0.001,1.400,0.428,10000,0.000,0.287
+Clutchmother Zavas,Un'Goro,704,0.000,1.000,0.300,10000,0.000,0.439
+Sudden Betrayal,Kobalds,707,0.001,1.300,0.380,10000,0.000,0.327
+Bane of Doom,Classic,715,0.001,1.200,0.437,9800,0.000,0.405
+Molten Blade,Un'Goro,723,0.001,1.400,0.440,9100,0.000,0.435
+Chittering Tunneler,Un'Goro,733,0.000,1.400,0.458,8800,0.000,0.446
+Succubus,Basic,737,0.000,1.700,0.369,8700,0.000,0.259
+Lesser Onyx Spellstone,Kobalds,748,0.001,1.800,0.379,8000,0.000,0.348
+Lakkari Felhound,Un'Goro,751,0.001,1.700,0.357,7800,0.000,0.281
+Nat Pagle,Classic,756,0.000,1.000,0.418,7600,0.000,0.425
+Lilian Voss,Frozen Throne,760,0.001,1.000,0.400,7400,0.000,0.401
+Master Swordsmith,Classic,767,0.000,1.300,0.416,7200,0.000,0.346
+Mad Bomber,Classic,769,0.000,1.400,0.488,7000,0.000,0.378
+Unwilling Sacrifice,Frozen Throne,782,0.000,1.300,0.410,6600,0.000,0.391
+Alarm-o-Bot,Classic,787,0.000,1.600,0.403,6300,0.000,0.446
+The Runespear,Kobalds,791,0.001,1.000,0.508,6100,0.000,0.442
+Abominable Bowman,Frozen Throne,797,0.001,1.300,0.468,5900,0.000,0.512
+Demolisher,Classic,821,0.000,1.200,0.402,4700,0.000,0.343
+Rummaging Kobold,Kobalds,823,0.001,1.000,0.447,4700,0.000,0.401
+Giant Anaconda,Un'Goro,828,0.000,1.300,0.431,4300,0.000,0.451
+Cruel Dinomancer,Un'Goro,832,0.000,1.500,0.329,4200,0.000,0.408
+Roll the Bones,Frozen Throne,837,0.000,1.700,0.328,4000,0.000,0.351
+Gravelsnout Knight,Kobalds,840,0.000,1.500,0.433,3900,0.000,0.343
+Tomb Lurker,Frozen Throne,843,0.000,1.300,0.459,3800,0.000,0.536
+Blackguard,Frozen Throne,845,0.000,1.500,0.430,3500,0.000,0.422
+Kobold Barbarian,Kobalds,855,0.000,1.400,0.419,3100,0.000,0.390
+Explore Un'Goro,Un'Goro,859,0.000,1.100,0.370,3000,0.000,0.383
+Holy Wrath,Classic,872,0.000,1.100,0.478,2500,0.000,0.351
+Tortollan Primalist,Un'Goro,875,0.000,1.100,0.417,2200,0.000,0.383
+Deadly Arsenal,Witchwood,890,0.000,1.400,0.413,1600,0.000,0.341

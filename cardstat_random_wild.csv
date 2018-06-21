@@ -1,0 +1,349 @@
+name,set,rank,deck_freq,copies,winrate,play_time,play_freq,play_winrate
+Shadow Visions,Un'Goro,7,0.106,1.800,0.542,170000,0.007,0.532
+Maelstrom Portal,Karazhan,16,0.120,1.900,0.601,120000,0.005,0.510
+Oaken Summons,Kobalds,17,0.073,2.000,0.579,120000,0.005,0.584
+Stonehill Defender,Un'Goro,19,0.081,1.600,0.533,120000,0.005,0.464
+Primordial Glyph,Un'Goro,20,0.069,1.700,0.552,120000,0.005,0.503
+Mad Scientist,Naxxramas,39,0.076,1.700,0.574,100000,0.005,0.546
+Devolve,Gadgetzan,42,0.116,1.800,0.601,100000,0.004,0.455
+Shadow Essence,Frozen Throne,50,0.056,2.000,0.555,97000,0.004,0.567
+Deathlord,Naxxramas,51,0.072,1.400,0.520,97000,0.004,0.502
+Eternal Servitude,Frozen Throne,64,0.060,1.900,0.549,85000,0.004,0.638
+Dirty Rat,Gadgetzan,70,0.085,1.100,0.525,82000,0.003,0.520
+The Lich King,Frozen Throne,74,0.137,1.000,0.555,80000,0.003,0.547
+Resurrect,Blackrock Mountain,75,0.053,1.900,0.555,80000,0.003,0.641
+Animal Companion,Basic,77,0.048,1.800,0.581,79000,0.003,0.490
+Kazakus,Gadgetzan,79,0.081,1.000,0.546,78000,0.003,0.571
+Voidcaller,Naxxramas,81,0.068,1.300,0.558,76000,0.003,0.577
+Piloted Shredder,Goblins vs Gnomes,82,0.076,1.700,0.598,76000,0.003,0.508
+Barnes,Karazhan,88,0.078,1.000,0.557,74000,0.003,0.625
+Knife Juggler,Classic,90,0.059,1.600,0.617,72000,0.003,0.505
+Crackle,Goblins vs Gnomes,93,0.074,2.000,0.636,71000,0.003,0.550
+Sylvanas Windrunner,Classic,97,0.101,1.000,0.535,67000,0.003,0.565
+Lightning Storm,Classic,104,0.053,1.600,0.494,63000,0.003,0.433
+Swashburglar,Karazhan,109,0.039,1.900,0.554,60000,0.003,0.496
+"N'Zoth, the Corruptor",Old Gods,111,0.133,1.000,0.528,58000,0.002,0.612
+Netherspite Historian,Karazhan,116,0.034,1.900,0.552,56000,0.002,0.498
+Obsidian Statue,Frozen Throne,118,0.067,1.800,0.545,55000,0.002,0.522
+Arcane Missiles,Basic,119,0.023,1.800,0.557,55000,0.002,0.463
+Ragnaros the Firelord,Classic,125,0.088,1.000,0.553,54000,0.002,0.591
+Drakonid Operative,Gadgetzan,128,0.033,1.800,0.553,53000,0.002,0.514
+Shudderwock,Witchwood,136,0.054,1.000,0.489,50000,0.002,0.770
+Firelands Portal,Karazhan,143,0.035,1.500,0.553,47000,0.002,0.496
+Volcano,Un'Goro,146,0.049,1.700,0.487,46000,0.002,0.407
+Gnomeferatu,Frozen Throne,147,0.042,1.100,0.546,46000,0.002,0.544
+Twilight's Call,Kobalds,149,0.029,1.700,0.504,45000,0.002,0.560
+Wandering Monster,Kobalds,150,0.037,1.700,0.578,45000,0.002,0.482
+Bloodreaver Gul'dan,Frozen Throne,151,0.098,1.000,0.554,45000,0.002,0.647
+Babbling Book,Karazhan,154,0.023,1.600,0.513,44000,0.002,0.464
+Lesser Diamond Spellstone,Kobalds,157,0.058,1.900,0.551,43000,0.002,0.599
+Blink Fox,Witchwood,160,0.028,1.900,0.522,42000,0.002,0.475
+Call to Arms,Kobalds,167,0.030,1.900,0.594,40000,0.002,0.508
+Flamewaker,Blackrock Mountain,169,0.018,1.900,0.570,40000,0.002,0.513
+Tracking,Basic,184,0.029,1.700,0.569,37000,0.002,0.483
+Cobalt Scalebane,Frozen Throne,187,0.039,1.500,0.566,36000,0.002,0.499
+Fal'dorei Strider,Kobalds,190,0.020,1.700,0.523,36000,0.002,0.525
+Unidentified Maul,Kobalds,194,0.029,1.800,0.633,35000,0.001,0.525
+Deathstalker Rexxar,Frozen Throne,205,0.049,1.000,0.566,32000,0.001,0.440
+Hallucination,Un'Goro,211,0.020,1.800,0.486,31000,0.001,0.440
+Vicious Fledgling,Un'Goro,215,0.022,1.800,0.587,30000,0.001,0.505
+Cinderstorm,Witchwood,216,0.016,1.700,0.559,30000,0.001,0.488
+Crackling Razormaw,Un'Goro,217,0.014,1.900,0.592,30000,0.001,0.501
+Cabalist's Tome,Old Gods,218,0.018,1.400,0.490,30000,0.001,0.486
+Mind Control Tech,Classic,221,0.036,1.200,0.516,30000,0.001,0.454
+Avenge,Naxxramas,234,0.020,1.800,0.608,28000,0.001,0.527
+Shimmering Tempest,Un'Goro,241,0.012,1.500,0.479,27000,0.001,0.401
+Crystalline Oracle,Un'Goro,243,0.017,1.500,0.464,27000,0.001,0.442
+Stitched Tracker,Frozen Throne,244,0.022,1.600,0.527,27000,0.001,0.490
+Pick Pocket,Witchwood,248,0.013,1.400,0.468,26000,0.001,0.425
+Brawl,Classic,258,0.021,1.800,0.451,25000,0.001,0.422
+Undercity Huckster,Old Gods,260,0.016,1.800,0.490,25000,0.001,0.452
+Possessed Lackey,Kobalds,268,0.020,1.600,0.539,24000,0.001,0.544
+Shadow Ascendant,Frozen Throne,270,0.013,1.800,0.535,24000,0.001,0.468
+"Y'Shaarj, Rage Unbound",Old Gods,273,0.059,1.000,0.564,23000,0.001,0.619
+Dr. Boom,Goblins vs Gnomes,276,0.040,1.000,0.576,23000,0.001,0.535
+Sir Finley Mrrgglton,League of Explorer,278,0.029,1.000,0.563,23000,0.001,0.503
+Hydrologist,Un'Goro,286,0.012,1.800,0.565,22000,0.001,0.465
+Unstable Portal,Goblins vs Gnomes,290,0.006,1.600,0.550,21000,0.001,0.447
+Skull of the Man'ari,Kobalds,296,0.022,1.000,0.551,21000,0.001,0.593
+Jeweled Macaw,Un'Goro,297,0.008,1.800,0.546,20000,0.001,0.425
+Hagatha the Witch,Witchwood,299,0.040,1.000,0.547,20000,0.001,0.474
+Tortollan Shellraiser,Un'Goro,302,0.012,1.300,0.491,20000,0.001,0.441
+Doomguard,Classic,306,0.040,1.700,0.558,20000,0.001,0.527
+Evolve,Old Gods,314,0.012,1.700,0.531,19000,0.001,0.514
+Arcane Keysmith,Witchwood,316,0.013,1.300,0.528,19000,0.001,0.492
+Free From Amber,Un'Goro,318,0.017,1.500,0.528,19000,0.001,0.478
+Dragon's Fury,Kobalds,338,0.015,1.400,0.513,17000,0.001,0.443
+Kabal Courier,Gadgetzan,342,0.013,1.100,0.533,17000,0.001,0.472
+Dark Peddler,League of Explorer,345,0.013,1.400,0.578,17000,0.001,0.522
+Gentle Megasaur,Un'Goro,361,0.011,1.800,0.593,16000,0.001,0.505
+Raven Familiar,Kobalds,364,0.009,1.500,0.522,15000,0.001,0.468
+Soulfire,Basic,367,0.014,1.900,0.557,15000,0.001,0.484
+Thoughtsteal,Classic,372,0.009,1.400,0.450,15000,0.001,0.379
+C'Thun,Old Gods,375,0.021,1.000,0.479,15000,0.001,0.610
+Bone Drake,Frozen Throne,378,0.015,1.400,0.513,15000,0.001,0.476
+Ysera,Classic,383,0.032,1.000,0.533,14000,0.001,0.535
+Spiteful Summoner,Kobalds,385,0.011,1.900,0.555,14000,0.001,0.540
+Lesser Ruby Spellstone,Kobalds,392,0.006,1.600,0.463,14000,0.001,0.409
+Flamecannon,Goblins vs Gnomes,399,0.005,1.400,0.542,13000,0.001,0.439
+Servant of Kalimos,Un'Goro,407,0.008,1.700,0.488,13000,0.001,0.452
+Elise the Trailblazer,Un'Goro,410,0.017,1.000,0.493,13000,0.001,0.495
+Grimscale Chum,Gadgetzan,414,0.006,1.900,0.591,13000,0.001,0.478
+Shifting Shade,Old Gods,415,0.010,1.300,0.456,13000,0.001,0.452
+Corpsetaker,Frozen Throne,418,0.011,1.900,0.593,12000,0.001,0.496
+"Medivh, the Guardian",Karazhan,426,0.017,1.000,0.543,12000,0.001,0.577
+Blazing Invocation,Witchwood,434,0.006,1.500,0.444,12000,0.001,0.422
+Raven Idol,League of Explorer,436,0.006,1.700,0.524,12000,0.001,0.482
+Earthen Might,Witchwood,439,0.009,1.900,0.586,12000,0.001,0.513
+Witch's Apprentice,Witchwood,440,0.006,1.500,0.479,11000,0.001,0.409
+Mind Vision,Basic,441,0.005,1.600,0.407,11000,0.001,0.346
+To My Side!,Kobalds,446,0.007,1.800,0.602,11000,0.001,0.521
+Clockwork Gnome,Goblins vs Gnomes,450,0.007,1.700,0.505,11000,0.001,0.451
+Breath of Sindragosa,Frozen Throne,452,0.004,1.600,0.498,11000,0.001,0.406
+Dire Frenzy,Witchwood,454,0.010,1.500,0.508,11000,0.001,0.470
+Fiery Bat,Old Gods,462,0.006,1.800,0.553,10000,0.001,0.462
+Unidentified Elixir,Kobalds,465,0.005,1.600,0.478,10000,0.000,0.446
+Primalfin Lookout,Un'Goro,467,0.005,1.700,0.584,10000,0.000,0.437
+Burgle,Grand Tournament,469,0.009,1.600,0.482,10000,0.000,0.443
+Face Collector,Witchwood,471,0.008,1.000,0.483,10000,0.000,0.436
+Webspinner,Naxxramas,482,0.004,1.800,0.514,10000,0.000,0.418
+King's Elekk,Grand Tournament,487,0.007,1.300,0.544,9800,0.000,0.482
+Unstable Evolution,Kobalds,492,0.008,1.300,0.511,9800,0.000,0.483
+Mimic Pod,Un'Goro,493,0.007,1.400,0.464,9700,0.000,0.423
+Shifting Scroll,Kobalds,494,0.003,1.400,0.445,9700,0.000,0.381
+Curious Glimmerroot,Un'Goro,496,0.008,1.400,0.510,9600,0.000,0.476
+Prince Malchezaar,Karazhan,498,0.009,1.000,0.444,9500,0.000,0.387
+"Yogg-Saron, Hope's End",Old Gods,499,0.019,1.000,0.490,9300,0.000,0.341
+Kobold Illusionist,Kobalds,503,0.006,1.800,0.486,9300,0.000,0.512
+Museum Curator,League of Explorer,505,0.006,1.400,0.490,9200,0.000,0.456
+Dark Possession,Witchwood,514,0.005,1.300,0.504,8900,0.000,0.442
+Seeping Oozeling,Kobalds,516,0.008,1.800,0.553,8900,0.000,0.576
+Vex Crow,Witchwood,522,0.005,1.500,0.514,8800,0.000,0.415
+Kathrena Winterwisp,Kobalds,523,0.017,1.000,0.570,8800,0.000,0.620
+Marin the Fox,Kobalds,524,0.010,1.000,0.440,8800,0.000,0.426
+Lyra the Sunshard,Un'Goro,530,0.009,1.000,0.490,8400,0.000,0.444
+Psionic Probe,Kobalds,531,0.004,1.500,0.396,8400,0.000,0.374
+Book of Specters,Witchwood,534,0.006,1.500,0.487,8200,0.000,0.447
+Deck of Wonders,Kobalds,538,0.003,1.300,0.443,8200,0.000,0.367
+Tess Greymane,Witchwood,545,0.018,1.000,0.490,7900,0.000,0.521
+Glaivezooka,Goblins vs Gnomes,550,0.008,1.400,0.560,7700,0.000,0.519
+Silver Vanguard,Kobalds,568,0.013,1.400,0.535,7200,0.000,0.535
+Elemental Destruction,Grand Tournament,570,0.008,1.200,0.467,7200,0.000,0.396
+Mulch,Grand Tournament,571,0.007,1.300,0.532,7100,0.000,0.508
+Lotus Agents,Gadgetzan,575,0.005,1.600,0.496,7100,0.000,0.480
+"Thrall, Deathseer",Frozen Throne,581,0.008,1.000,0.553,6900,0.000,0.510
+Arfus,Frozen Throne,589,0.004,1.000,0.485,6800,0.000,0.454
+Patches the Pirate,Gadgetzan,592,0.027,1.000,0.608,6700,0.000,0.428
+Witching Hour,Witchwood,593,0.009,1.800,0.491,6700,0.000,0.565
+Kobold Apprentice,Kobalds,597,0.004,1.400,0.476,6600,0.000,0.424
+Blood Imp,Classic,599,0.002,1.500,0.462,6600,0.000,0.355
+Lightfused Stegodon,Un'Goro,606,0.004,1.700,0.594,6500,0.000,0.493
+Fireguard Destroyer,Blackrock Mountain,616,0.006,1.800,0.570,6300,0.000,0.484
+Chameleos,Witchwood,617,0.009,1.000,0.486,6200,0.000,0.460
+Swamp Dragon Egg,Witchwood,620,0.003,1.600,0.453,6200,0.000,0.351
+"Shaku, the Collector",Gadgetzan,624,0.007,1.000,0.506,6100,0.000,0.495
+Sneed's Old Shredder,Goblins vs Gnomes,625,0.011,1.000,0.510,6000,0.000,0.535
+Elise Starseeker,League of Explorer,630,0.006,1.000,0.476,5900,0.000,0.428
+Jeweled Scarab,League of Explorer,634,0.003,1.300,0.464,5900,0.000,0.408
+Sindragosa,Frozen Throne,637,0.008,1.000,0.523,5900,0.000,0.548
+Multi-Shot,Basic,645,0.003,1.300,0.487,5800,0.000,0.269
+Dark Cultist,Naxxramas,647,0.003,1.300,0.517,5700,0.000,0.487
+Ethereal Conjurer,League of Explorer,651,0.004,1.300,0.522,5600,0.000,0.434
+Murloc Knight,Grand Tournament,662,0.003,1.700,0.566,5500,0.000,0.413
+Effigy,Grand Tournament,665,0.001,1.300,0.531,5400,0.000,0.495
+Archmage Arugal,Witchwood,666,0.004,1.000,0.497,5400,0.000,0.429
+Rummaging Kobold,Kobalds,681,0.007,1.300,0.531,5100,0.000,0.593
+Greater Arcane Missiles,Gadgetzan,686,0.000,1.100,0.521,5100,0.000,0.479
+Imp-losion,Goblins vs Gnomes,691,0.004,1.400,0.561,4900,0.000,0.424
+Coffin Crasher,Witchwood,695,0.004,1.400,0.499,4900,0.000,0.537
+Master Oakheart,Kobalds,698,0.007,1.000,0.520,4800,0.000,0.599
+Tortollan Forager,Un'Goro,700,0.002,1.500,0.473,4800,0.000,0.382
+Rhok'delar,Kobalds,702,0.010,1.000,0.594,4800,0.000,0.489
+Shallow Gravedigger,Frozen Throne,704,0.003,1.300,0.450,4700,0.000,0.398
+"Finja, the Flying Star",Gadgetzan,708,0.005,1.000,0.581,4700,0.000,0.488
+Volatile Elemental,Un'Goro,719,0.002,1.300,0.436,4500,0.000,0.339
+Sudden Betrayal,Kobalds,722,0.003,1.500,0.476,4500,0.000,0.371
+Unidentified Shield,Kobalds,724,0.004,1.700,0.364,4400,0.000,0.427
+Adaptation,Un'Goro,725,0.002,1.600,0.458,4400,0.000,0.393
+Anyfin Can Happen,League of Explorer,730,0.006,1.900,0.578,4300,0.000,0.591
+Witch's Cauldron,Witchwood,734,0.004,1.200,0.498,4300,0.000,0.408
+Faceless Summoner,Old Gods,735,0.002,1.400,0.519,4300,0.000,0.406
+Goblin Blastmage,Goblins vs Gnomes,738,0.003,1.900,0.597,4300,0.000,0.521
+Dollmaster Dorian,Witchwood,740,0.005,1.000,0.466,4300,0.000,0.450
+Ravencaller,Witchwood,756,0.002,1.600,0.446,4100,0.000,0.360
+Woodcutter's Axe,Witchwood,757,0.004,1.700,0.506,4100,0.000,0.440
+Journey Below,Old Gods,759,0.002,1.500,0.440,4100,0.000,0.371
+Forked Lightning,Classic,760,0.001,1.500,0.406,4000,0.000,0.361
+Healing Wave,Grand Tournament,768,0.003,1.300,0.460,4000,0.000,0.422
+Onyx Bishop,Karazhan,770,0.002,1.500,0.440,4000,0.000,0.423
+Tinkertown Technician,Goblins vs Gnomes,773,0.002,1.700,0.590,3900,0.000,0.470
+Bane of Doom,Classic,775,0.003,1.200,0.498,3900,0.000,0.443
+Huge Toad,League of Explorer,776,0.001,1.600,0.503,3900,0.000,0.448
+Volcanosaur,Un'Goro,779,0.003,1.200,0.448,3900,0.000,0.370
+Chromaggus,Blackrock Mountain,781,0.005,1.000,0.483,3900,0.000,0.483
+Gather Your Party,Kobalds,797,0.002,2.000,0.514,3700,0.000,0.513
+Devour Mind,Frozen Throne,801,0.003,1.200,0.425,3600,0.000,0.403
+The Darkness,Kobalds,802,0.003,1.000,0.436,3600,0.000,0.414
+Dragonhatcher,Kobalds,806,0.006,1.400,0.524,3600,0.000,0.536
+Beneath the Grounds,Grand Tournament,807,0.002,1.300,0.429,3600,0.000,0.415
+Ravasaur Runt,Un'Goro,809,0.001,1.600,0.551,3500,0.000,0.434
+Howlfiend,Frozen Throne,810,0.005,1.200,0.484,3500,0.000,0.538
+Nefarian,Blackrock Mountain,811,0.004,1.000,0.508,3500,0.000,0.447
+Finders Keepers,Gadgetzan,813,0.001,1.100,0.374,3500,0.000,0.458
+Val'anyr,Kobalds,815,0.005,1.000,0.529,3500,0.000,0.486
+Witchwood Imp,Witchwood,834,0.001,1.600,0.444,3300,0.000,0.403
+Succubus,Basic,837,0.002,1.800,0.489,3300,0.000,0.371
+Spellslinger,Grand Tournament,840,0.002,1.500,0.471,3300,0.000,0.406
+Mindgames,Classic,841,0.001,1.200,0.395,3300,0.000,0.407
+Kabal Trafficker,Gadgetzan,849,0.003,1.100,0.513,3200,0.000,0.511
+Renounce Darkness,Old Gods,851,0.002,1.900,0.457,3100,0.000,0.389
+I Know a Guy,Gadgetzan,855,0.001,1.700,0.400,3100,0.000,0.356
+Desert Camel,League of Explorer,856,0.002,1.900,0.536,3100,0.000,0.436
+Armored Warhorse,Grand Tournament,857,0.001,1.100,0.456,3100,0.000,0.464
+Stampeding Kodo,Classic,858,0.001,1.200,0.518,3100,0.000,0.413
+Pterrordax Hatchling,Un'Goro,862,0.001,1.200,0.382,3100,0.000,0.375
+Kabal Chemist,Gadgetzan,866,0.001,1.100,0.491,3000,0.000,0.421
+Hungry Dragon,Blackrock Mountain,870,0.002,1.500,0.456,3000,0.000,0.421
+Call Pet,Goblins vs Gnomes,872,0.002,1.900,0.515,3000,0.000,0.438
+Elder Longneck,Un'Goro,874,0.001,1.800,0.471,2900,0.000,0.440
+Selfless Hero,Old Gods,875,0.002,1.600,0.619,2900,0.000,0.476
+Moonglade Portal,Karazhan,877,0.002,1.500,0.496,2900,0.000,0.417
+"Toki, Time-Tinker",Witchwood,883,0.002,1.000,0.502,2900,0.000,0.454
+"Nat, the Darkfisher",Old Gods,885,0.002,1.000,0.478,2900,0.000,0.482
+Misdirection,Classic,886,0.002,1.300,0.543,2900,0.000,0.342
+Ivory Knight,Karazhan,887,0.002,1.500,0.537,2900,0.000,0.418
+Ravenous Pterrordax,Un'Goro,891,0.002,1.600,0.536,2900,0.000,0.434
+Roll the Bones,Frozen Throne,900,0.003,1.400,0.502,2800,0.000,0.428
+Darkshire Librarian,Old Gods,902,0.002,1.800,0.502,2800,0.000,0.428
+Mechanical Yeti,Goblins vs Gnomes,904,0.002,1.600,0.530,2700,0.000,0.438
+Master of Evolution,Old Gods,910,0.002,1.400,0.561,2700,0.000,0.460
+"Ragnaros, Lightlord",Old Gods,912,0.004,1.000,0.538,2700,0.000,0.495
+Confessor Paletress,Grand Tournament,913,0.002,1.000,0.480,2700,0.000,0.488
+Lesser Onyx Spellstone,Kobalds,914,0.003,1.400,0.482,2700,0.000,0.404
+Ornery Direhorn,Un'Goro,918,0.001,1.400,0.433,2600,0.000,0.388
+Shrieking Shroom,Kobalds,923,0.001,1.200,0.449,2600,0.000,0.322
+Evolving Spores,Un'Goro,930,0.002,1.200,0.527,2600,0.000,0.510
+Coghammer,Goblins vs Gnomes,932,0.002,1.100,0.613,2500,0.000,0.487
+Lakkari Felhound,Un'Goro,936,0.002,1.600,0.521,2500,0.000,0.377
+Woecleaver,Kobalds,938,0.003,1.000,0.506,2500,0.000,0.588
+Cleave,Basic,941,0.001,1.300,0.366,2500,0.000,0.229
+"Xaril, Poisoned Mind",Old Gods,942,0.002,1.000,0.486,2500,0.000,0.430
+Nexus-Champion Saraad,Grand Tournament,950,0.003,1.000,0.468,2400,0.000,0.443
+Avenging Wrath,Classic,952,0.002,1.400,0.541,2400,0.000,0.423
+Primal Talismans,Kobalds,953,0.000,1.500,0.511,2400,0.000,0.478
+Tomb Spider,League of Explorer,954,0.001,1.400,0.463,2400,0.000,0.389
+Grand Archivist,Kobalds,956,0.005,1.000,0.560,2400,0.000,0.495
+Young Priestess,Classic,957,0.001,1.400,0.485,2400,0.000,0.360
+Hungry Ettin,Kobalds,962,0.001,1.100,0.380,2300,0.000,0.379
+Bellringer Sentry,Witchwood,970,0.002,1.600,0.560,2300,0.000,0.462
+Tuskarr Totemic,Grand Tournament,973,0.001,1.600,0.515,2200,0.000,0.366
+Smuggler's Crate,Gadgetzan,974,0.001,1.400,0.468,2200,0.000,0.370
+Prince Liam,Witchwood,979,0.002,1.000,0.569,2200,0.000,0.368
+Grimestreet Informant,Gadgetzan,990,0.001,1.300,0.472,2100,0.000,0.395
+Grizzled Guardian,Kobalds,1008,0.001,1.500,0.479,2000,0.000,0.434
+Piloted Sky Golem,Goblins vs Gnomes,1012,0.002,1.100,0.498,2000,0.000,0.479
+Rumbling Elemental,League of Explorer,1013,0.001,1.300,0.459,2000,0.000,0.425
+Gorillabot A-3,League of Explorer,1018,0.001,1.700,0.562,1900,0.000,0.425
+Bright-Eyed Scout,Un'Goro,1019,0.002,1.600,0.481,1900,0.000,0.497
+Infest,Old Gods,1021,0.001,1.200,0.451,1900,0.000,0.369
+Nat Pagle,Classic,1022,0.001,1.000,0.469,1900,0.000,0.382
+Wrathion,Gadgetzan,1023,0.001,1.000,0.415,1900,0.000,0.455
+Forbidden Shaping,Old Gods,1030,0.001,1.200,0.495,1900,0.000,0.404
+Tinkmaster Overspark,Classic,1032,0.003,1.000,0.488,1800,0.000,0.407
+Alarm-o-Bot,Classic,1035,0.001,1.400,0.404,1800,0.000,0.434
+Lynessa Sunsorrow,Kobalds,1038,0.004,1.000,0.485,1800,0.000,0.445
+Dart Trap,League of Explorer,1040,0.001,1.400,0.524,1800,0.000,0.436
+Blingtron 3000,Goblins vs Gnomes,1041,0.002,1.000,0.488,1800,0.000,0.497
+Summoning Stone,League of Explorer,1047,0.001,1.300,0.455,1800,0.000,0.379
+Guild Recruiter,Kobalds,1051,0.001,1.700,0.507,1800,0.000,0.417
+Rotface,Frozen Throne,1057,0.003,1.000,0.461,1800,0.000,0.482
+Geosculptor Yip,Kobalds,1059,0.004,1.000,0.371,1700,0.000,0.565
+A Light in the Darkness,Old Gods,1060,0.001,1.400,0.447,1700,0.000,0.316
+Unwilling Sacrifice,Frozen Throne,1061,0.001,1.200,0.479,1700,0.000,0.423
+Shadowboxer,Goblins vs Gnomes,1065,0.001,1.700,0.469,1700,0.000,0.408
+Verdant Longneck,Un'Goro,1068,0.001,1.500,0.421,1700,0.000,0.387
+Silvermoon Portal,Karazhan,1070,0.001,1.500,0.468,1700,0.000,0.420
+Ancestor's Call,Goblins vs Gnomes,1071,0.001,1.400,0.476,1700,0.000,0.454
+Professor Putricide,Frozen Throne,1073,0.002,1.000,0.598,1700,0.000,0.483
+Flame Juggler,Grand Tournament,1077,0.001,1.400,0.456,1700,0.000,0.403
+Mounted Raptor,League of Explorer,1081,0.001,1.700,0.507,1600,0.000,0.444
+Sabotage,Goblins vs Gnomes,1087,0.002,1.100,0.481,1600,0.000,0.443
+Grimy Gadgeteer,Gadgetzan,1091,0.001,1.400,0.418,1600,0.000,0.385
+Servant of Yogg-Saron,Old Gods,1095,0.001,1.300,0.431,1600,0.000,0.365
+Clutchmother Zavas,Un'Goro,1102,0.001,1.000,0.518,1500,0.000,0.429
+Chittering Tunneler,Un'Goro,1112,0.001,1.200,0.512,1500,0.000,0.450
+Tanglefur Mystic,Witchwood,1114,0.001,1.600,0.398,1500,0.000,0.358
+Master Swordsmith,Classic,1123,0.000,1.200,0.414,1400,0.000,0.325
+Arch-Thief Rafaam,League of Explorer,1128,0.002,1.000,0.454,1400,0.000,0.443
+Demolisher,Classic,1129,0.001,1.100,0.432,1400,0.000,0.301
+Grimestreet Smuggler,Gadgetzan,1130,0.001,1.700,0.384,1400,0.000,0.404
+Lunar Visions,Gadgetzan,1140,0.001,1.200,0.472,1400,0.000,0.461
+Meat Wagon,Frozen Throne,1143,0.002,1.400,0.475,1300,0.000,0.434
+Trogg Beastrager,Gadgetzan,1144,0.001,1.400,0.483,1300,0.000,0.408
+Bomb Lobber,Goblins vs Gnomes,1149,0.001,1.100,0.493,1300,0.000,0.434
+Iron Juggernaut,Goblins vs Gnomes,1151,0.001,1.000,0.411,1300,0.000,0.499
+Powermace,Goblins vs Gnomes,1159,0.001,1.800,0.556,1300,0.000,0.479
+Shifter Zerus,Old Gods,1163,0.001,1.000,0.477,1300,0.000,0.388
+Silverware Golem,Karazhan,1164,0.002,1.900,0.528,1300,0.000,0.356
+Ram Wrangler,Grand Tournament,1167,0.001,1.400,0.538,1200,0.000,0.420
+Shadowfiend,Grand Tournament,1176,0.001,1.200,0.486,1200,0.000,0.449
+Lilian Voss,Frozen Throne,1195,0.002,1.000,0.457,1100,0.000,0.377
+Molten Blade,Un'Goro,1196,0.001,1.400,0.389,1100,0.000,0.330
+Demented Frostcaller,Old Gods,1201,0.000,1.300,0.379,1100,0.000,0.326
+Lock and Load,Grand Tournament,1205,0.001,1.500,0.528,1100,0.000,0.364
+Toshley,Goblins vs Gnomes,1207,0.001,1.000,0.510,1100,0.000,0.456
+Stampede,Un'Goro,1210,0.001,1.300,0.439,1100,0.000,0.404
+Eydis Darkbane,Grand Tournament,1217,0.001,1.000,0.359,1000,0.000,0.418
+Cruel Dinomancer,Un'Goro,1221,0.001,1.600,0.459,1000,0.000,0.420
+Zealous Initiate,Old Gods,1223,0.000,1.500,0.371,1000,0.000,0.340
+Blackhowl Gunspire,Witchwood,1224,0.001,1.000,0.439,1000,0.000,0.452
+The Runespear,Kobalds,1239,0.001,1.000,0.502,1000,0.000,0.420
+Mad Bomber,Classic,1244,0.001,1.400,0.475,1000,0.000,0.302
+Don Han'Cho,Gadgetzan,1245,0.000,1.000,0.481,1000,0.000,0.499
+Ironforge Portal,Karazhan,1248,0.000,1.700,0.404,1000,0.000,0.343
+Zoobot,Karazhan,1265,0.001,1.800,0.471,920,0.000,0.428
+The Skeleton Knight,Grand Tournament,1271,0.000,1.000,0.467,890,0.000,0.418
+Tentacle of N'Zoth,Old Gods,1279,0.000,1.300,0.362,870,0.000,0.320
+Hidden Cache,Gadgetzan,1298,0.000,1.500,0.393,820,0.000,0.369
+Abominable Bowman,Frozen Throne,1301,0.001,1.200,0.474,820,0.000,0.485
+Neptulon,Goblins vs Gnomes,1312,0.001,1.000,0.626,780,0.000,0.429
+Mad Hatter,Witchwood,1313,0.001,1.400,0.533,780,0.000,0.487
+Menagerie Magician,Karazhan,1316,0.001,1.600,0.501,770,0.000,0.453
+Wicked Witchdoctor,Karazhan,1337,0.000,1.500,0.512,740,0.000,0.403
+Giant Anaconda,Un'Goro,1340,0.001,1.300,0.469,730,0.000,0.473
+Gadgetzan Jouster,Grand Tournament,1343,0.000,1.300,0.420,720,0.000,0.418
+Holy Wrath,Classic,1354,0.000,1.500,0.410,690,0.000,0.355
+Fist of Jaraxxus,Grand Tournament,1356,0.001,1.900,0.518,680,0.000,0.354
+Varian Wrynn,Grand Tournament,1358,0.001,1.000,0.459,680,0.000,0.485
+Gravelsnout Knight,Kobalds,1359,0.000,1.700,0.402,680,0.000,0.363
+Anubisath Sentinel,League of Explorer,1362,0.000,1.400,0.480,670,0.000,0.400
+Thistle Tea,Old Gods,1363,0.001,1.200,0.347,660,0.000,0.334
+Bouncing Blade,Goblins vs Gnomes,1370,0.001,1.400,0.417,630,0.000,0.380
+Blackguard,Frozen Throne,1379,0.000,1.500,0.462,600,0.000,0.427
+Spreading Madness,Old Gods,1407,0.000,1.500,0.409,530,0.000,0.292
+Malkorok,Old Gods,1415,0.000,1.000,0.506,520,0.000,0.463
+Flame Leviathan,Goblins vs Gnomes,1416,0.000,1.000,0.515,510,0.000,0.441
+Recombobulator,Goblins vs Gnomes,1421,0.000,1.500,0.434,500,0.000,0.424
+Madam Goya,Gadgetzan,1426,0.000,1.000,0.461,490,0.000,0.435
+Master Jouster,Grand Tournament,1427,0.000,1.100,0.500,490,0.000,0.413
+Anub'ar Ambusher,Naxxramas,1433,0.000,1.400,0.409,480,0.000,0.382
+Kobold Barbarian,Kobalds,1437,0.000,1.400,0.508,470,0.000,0.378
+Void Crusher,Grand Tournament,1447,0.000,1.000,0.440,440,0.000,0.364
+Explore Un'Goro,Un'Goro,1451,0.000,1.300,0.392,430,0.000,0.350
+Grimestreet Pawnbroker,Gadgetzan,1452,0.000,1.600,0.381,430,0.000,0.416
+Mech-Bear-Cat,Goblins vs Gnomes,1459,0.000,1.300,0.318,410,0.000,0.444
+Brass Knuckles,Gadgetzan,1464,0.000,1.300,0.313,400,0.000,0.330
+Tuskarr Jouster,Grand Tournament,1466,0.000,1.200,0.547,400,0.000,0.400
+Tomb Lurker,Frozen Throne,1467,0.000,1.200,0.431,390,0.000,0.446
+Mayor Noggenfogger,Gadgetzan,1471,0.000,1.000,0.467,380,0.000,0.308
+Lotus Illusionist,Gadgetzan,1474,0.000,1.200,0.477,380,0.000,0.433
+Grand Crusader,Grand Tournament,1480,0.000,1.300,0.363,360,0.000,0.407
+Tortollan Primalist,Un'Goro,1482,0.000,1.100,0.449,360,0.000,0.395
+Fel Cannon,Goblins vs Gnomes,1489,0.000,1.100,0.363,330,0.000,0.315
+Deadly Arsenal,Witchwood,1496,0.000,1.500,0.363,310,0.000,0.281
+Dark Bargain,Grand Tournament,1503,0.000,1.200,0.479,300,0.000,0.290
+Argent Lance,Grand Tournament,1519,0.000,1.600,0.556,270,0.000,0.410
+Madder Bomber,Goblins vs Gnomes,1525,0.000,1.300,0.500,240,0.000,0.402
+Sea Reaver,Grand Tournament,1566,0.000,1.600,0.182,150,0.000,0.547
+Ancient Shade,League of Explorer,1569,0.000,1.400,0.400,140,0.000,0.437
+Gnomish Experimenter,Goblins vs Gnomes,1580,0.000,1.600,0.250,100,0.000,0.355
